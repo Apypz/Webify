@@ -1,5 +1,7 @@
-# ⚜️ Webify  
-## Website Gamification for Web Programming Learning Media
+# ⚜️ <span style="color:blue; font-weight:bold;">Webify text</span> 
+## Website Gamification for Web Programming Learning Media 
+<span style="color:red; font-weight:bold;">This is red and bold text</span> 
+
 
 ---
 
