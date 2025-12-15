@@ -1,10 +1,5 @@
-# ⚜️ <span style="color:blue; font-weight:bold;">Webify text</span> 
-## Website Gamification for Web Programming Learning Media 
-<span style="color:red; font-weight:bold;">This is red and bold text</span> 
-
-
+# ✨ Webify 
 ---
-
 ### 📃 Description
 Learn web programming more fun with **Webify**. Web gamification based platform, with the feature **scaffolding learning**, start from HTML, CSS, Javascript, and Github for deployment, then user can submit a log, for their learn tracking. Next is the reward, user get a xp and coin which can unlocked the **badge**, and buying accesories to **custom the avatar model**. Last is submission project, with checklist menu, so user can develop gradually according to the checklist guide. See, how fun is this? Come try **Webify**.
 
