@@ -20,6 +20,6 @@ Learn web programming more fun with **Webify**. Web gamification based platform,
 
  ---
 
- ### ⚙️ How to Install
- *~ Coming Soon*
+### ⚙️ How to Install
+*Coming Soon*
 
